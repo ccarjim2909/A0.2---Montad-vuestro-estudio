@@ -9,5 +9,7 @@
 ## Decisiones y conflictos
 
 ## Calidad
- - Cuando no estemos de acuerdo se hara diplomaticamente y si alguien no notifica que ha tenido problemas o ha fallado en dos sprint seguidos sin motivos pues se le dara un toque de atencion
-## Calidad
+-No hacer PR enormes, ir modulando la subida del trabajo.
+-No hacer merges de tus propios PR.
+-Obedecer un formato común en conjunto, para poder entregar un proyecto consistente.
+-Hacer uso debido de comentarios en el código para aumentar la comprensión y facilitar la revisión por parte de los compañeros de equipo.
