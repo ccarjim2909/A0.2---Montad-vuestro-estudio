@@ -9,7 +9,8 @@
 ## Decisiones y conflictos
 
 ## Calidad
--No hacer PR enormes, ir modulando la subida del trabajo.
--No hacer merges de tus propios PR.
--Obedecer un formato común en conjunto, para poder entregar un proyecto consistente.
--Hacer uso debido de comentarios en el código para aumentar la comprensión y facilitar la revisión por parte de los compañeros de equipo.
+
+  - No hacer PR enormes, ir modulando la subida del trabajo.
+  - No hacer merges de tus propios PR.
+  - Obedecer un formato común en conjunto, para poder entregar un proyecto consistente.
+  - Hacer uso debido de comentarios en el código para aumentar la comprensión y facilitar la revisión por parte de los compañeros de equipo.
