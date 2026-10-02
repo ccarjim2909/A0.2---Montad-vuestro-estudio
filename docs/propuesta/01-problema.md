@@ -8,7 +8,7 @@ En muchos deportes de raqueta ya se han inventado aplicaciones en las que ponien
 
 Ahora mi propuesta es la creación de una web similar pero completamente orientada al fútbol, poder saber el nivel de los jugadores(que los propios rivales votan), que haya un ranking en escala, de jugadores que han jugado en los diferentes polideportivos de cada zona, ciudad, comunidad etc... y lo más importante poder unirse a partidos públicos con personas completamente desconocidas y que así las personas que no tengan 9 amigos para jugar, puedan disfrutar de un partido semanal.
 
-### ¿Quién lo sufre?
+### ¿Quién lo sufre?
 
 -   El "Organizador frustrado": Aquella persona que asume la responsabilidad de alquilar la pista, crear el grupo y buscar a los jugadores.
 
@@ -138,7 +138,7 @@ Ahora mismo no hay ninguna competencia en Cádiz pero existen ese tipo de aplica
 
 Buscamos organizar y ayudar a las personas a crear e integrarse en una comunidad en la que poder organizar partidos de forma ágil y en la que sea posible desenvolverse a gusto, con partidos justos y nivel de juego equilibrado. De forma cómoda a la vez que aprovechan los recursos que nos ofrece nuestro entorno, sacando el máximo partido a las instalaciones cercanas. 
 
-Queremos dejar atrás las pistas vacías y discusiones por quién usa la pista en horas puntas, usando una herramienta en la que grupos con diversos perfiles se puedan poner de acuerdo sin tener que comprobar un folio en la cancha que queremos usar o en grupos de WhatsApp saturados.
+Queremos dejar atrás las pistas vacías y discusiones por quién usa la pista en horas puntas, usando una herramienta en la que grupos con diversos perfiles se puedan poner de acuerdo sin tener que comprobar un folio en la cancha que se quiere usar o en grupos de WhatsApp saturados.
 
 ### Para el jugador: 
 
