@@ -60,6 +60,23 @@ Impacto para el usuario
 
 # Idea Dani:
 
-## 
+## App gestión coches
 
+## 1- Identificación de la necesidad
+
+La idea consiste en el desarrollo de una aplicación para gestionar el uso de coche en hogares con varios conductores. No enfocarlo necesariamente a la gestión de gastos de gasolina o reparaciones sino a notificar peticiones de uso de segmentos de tiempo concretos de cada coche y tambien delegar y recordar tareas de mantenimiento del vehículo, tanto para los que suelen controlar cosas como lavarlo, comprobar el nivel de aceite, de refrigerante o líquido limpia parabrisas, como para ir inculcando esas costumbres a las personas que llevan usando el vehículo menos tiempo y tienen que ir acostumbrandose.
+
+El público objetivo consistiría principalmente en familias con hijos que ya tienen el permiso de conducir y tienen que ir acostumbrandose a las obligaciones que conlleva el uso diario de un vehículo. En mi experiencia personal, los típicos canales de comunicación clásicos como los grupos de whatsapp de casa no son lo suficientemente eficientes para llevar un seguimiento correcto del mantenimiento o ponerse de acuerdo para el uso del coche. Es bastante molesto cuando has planificado coger el coche "bueno" de la casa para hacer por ejemplo un viaje corto a una ciudad tampoco muy alejada para que alguien lo coja a última hora para hacer la compra o dejarlo todo el finde de semana aparcado al lado de casa de un amigo o pareja que vive en la misma ciudad.
+
+## 2- Definición de público objetivo
+
+Las 2 principales user personas serían el; de el hijo/a jóven, entre 18-30 años que usa el coche sobre todo los fines de semana y el padre o madre que quiera que su hijo se vaya concienciando de las obligaciones que hay que tener al usar un vehículo propio. La aplicación buscaría recordar y notificar de forma precuente, de acuerdo a ciertos factores (por ejemplo, ir revisando con más frecuencia el nivel de refrigerante de u coche viejo) y el poder repartir las tareas.
+
+## 3- Análisis de competencia
+
+En cuanto a soluciones existentes, al buscar lo que he encontrado han sido un par de aplicaciones pero parece que se enfocan o bien al reparto de gastos, sobre todo de gasolina o a la designación de vehículo/conductor cuando un grupo de personas van a realizar el mismo trayecto. (Co-oto, MyCarpoolApp, WeeShare)
+
+En Co-oto se enfocan sobre todo a la gestión de gastos y no tiene reviews. Al estar centrada especialmente en gestión de gastos y la naturaleza a menudo imprevisible el gasto de combustible al usar un coche, no creo que tenga un uso lo suficientemente preciso para que se use de forma consistente. MyCarpoolApp está mas enfocada, como he mencionado anteriormente a compañeros de trabajo/empresa y a designar conductores o vehículos, lo que contrasta con el uso que plantearíamos en nuestra aplicación. Las principales quejas de usuarios es respecto a fallos en el algoritmo de sorteo o en el precio de la aplicación al ser por subscripción. WeeShare se enfoca a reservar todo tipo de propiedades (incluso con desconocidos), hasta casas o equipo deportivo o de acampada, embarcaciones...etc, sin ambordar la faceta de mantenimiento que plantearíamos en nuestra app. No he logrado ver reseñas de la app y además al acceder al enlance de descarga en Play Store me dice que no está disponible porque era compatible con una versión anterior de Android, por lo que parece que está abandonada.
+
+Como ya he mencionado, mi propuesta plantea abordar otra cara del problema, una que por lo que he investigado no se ha planteado en los antecedentes.
 
