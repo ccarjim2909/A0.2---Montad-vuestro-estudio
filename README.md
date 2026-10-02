@@ -1,4 +1,4 @@
-# A0.2---Montad-vuestro-estudio
+# Montad-vuestro-estudio
 
 # Participantes
 - Cristian Carrasco Jiménez
