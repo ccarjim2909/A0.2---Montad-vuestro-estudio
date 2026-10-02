@@ -55,7 +55,28 @@ Impacto para el usuario
 
 # Idea Jordi:
 
-##
+# Texting4You
+
+Una aplicación en la que tú subes el tema del que vas a hablar o un guión rápido de lo que pensaste, y lo puede llegar a modificar para que esté más organizado y se ajuste a un tiempo determinado para tener gancho en plataformas como TikTok, Instagram y YouTube Shorts (que es lo que más mueve en vídeos cortos).
+
+## Funcionalidades principales:
+- Organizador de texto: Ahorra mucho tiempo de pensar cómo puede quedar bien la idea o no.
+- Teleprompter inteligente: Te pone el texto, te pilla la voz a la vez que la cámara y puedes ir leyendo a tu ritmo sin tener una velocidad fija (que es lo que suele pasar con las apps que tienen esta opción). Al poder adaptarse a ti, los vídeos saldrán más fluidos.
+- Marcas de tiempo: Permite ver las marcas de tiempo por si tienes que sacar el vídeo en un tiempo justo.
+- Corrección de mirada: Para que el vídeo tenga más impacto al mantener el contacto visual.
+- Hora ideal de publicación (Opcional): Te notifica o te dice a qué hora subir el vídeo, porque de eso depende tener más o menos visitas.
+
+## Problemas que soluciona
+- El tiempo de pensar qué decir exactamente en el vídeo.
+- Adaptación a la velocidad de hablar de cada uno.
+- Tener más gancho en las redes sociales.
+
+## Users Persona posibles
+- TikTokers / Influencers.
+- Apartado de marketing en empresas pequeñas.
+
+## Competencia directa
+Que cumpla con todo lo que quiera implementar no, algunas tienen alguna funcion suelta pero el conjunto mejora mucho la funcionalidad entera de la app
 
 
 # Idea Dani:
