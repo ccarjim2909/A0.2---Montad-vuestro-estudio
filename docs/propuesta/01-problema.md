@@ -35,6 +35,11 @@ Hemos decidido utilizar mi idea, ya que es la más facil de interpretar y de ent
 
 ### Persona 3
 
-- Playtomic: Empresa que tiene los mismos servicios pero unicamente esta asociada a los deportes de raqueta (como el padel) por lo que ahora mismo no seria una competencia directa.
+- Playtomic: Empresa que tiene los mismos servicios pero unicamente esta asociada a los deportes de raqueta (como el padel)
+
+Fortaleza: Es una aplicacion ampliamente conocida en todo el mundo por lo que si decidieran añadir los deportes de pelota seria una competencia directa
+
+Oportunidades:Ellos no tienen ese sistema y nosotros si la tenemos porque tenemos mas conocimiento de lo que se juega en nuestro entorno
 
 - Ahora mismo no hay ninguna competencia en Cadiz pero existen ese tipo de aplicaciones tanto en España como fuera.
+
