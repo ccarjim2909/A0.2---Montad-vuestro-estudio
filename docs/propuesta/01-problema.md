@@ -32,14 +32,101 @@ Ahora mi propuesta es la creación de una web similar pero completamente orienta
 
 Hemos decidido utilizar mi idea, ya que es la más facil de interpretar y de entender, es un tema que más o menos conocemos los cuatro y además es una idea original que de verdad no existe.
 
+# Persona 2
+----
 
-### Persona 3
+## User Persona 1
 
-- Playtomic: Empresa que tiene los mismos servicios pero unicamente esta asociada a los deportes de raqueta (como el padel)
+- Edad: 27 años
+- Ocupación: Ingeniero
+- Ciudad: Cadiz
+- Situación: Trabaja a jornada completa y juega al fútbol 7 con amigos.
 
-Fortaleza: Es una aplicacion ampliamente conocida en todo el mundo por lo que si decidieran añadir los deportes de pelota seria una competencia directa
+### Contexto
+Esta persona lleva varios años jugando al fútbol 7 con un grupo de amigos. Normalmente son unas 12-14 personas, pero conseguir que todos estén disponibles el mismo día se ha convertido en un problema.
 
-Oportunidades:Ellos no tienen ese sistema y nosotros si la tenemos porque tenemos mas conocimiento de lo que se juega en nuestro entorno
+Aunque le gusta jugar, suele ser él quien se encarga de reservar el campo, crear el grupo de WhatsApp, confirmar quién viene y buscar sustitutos cuando alguien falla.
 
-- Ahora mismo no hay ninguna competencia en Cadiz pero existen ese tipo de aplicaciones tanto en España como fuera.
+### Objetivos
+- Conseguir que los partidos se completen sin tener que perseguir a sus amigos.
+
+- Encontrar jugadores rápidamente cuando alguien cancela.
+
+- Reducir el tiempo que dedica a organizar cada partido.
+
+### Frustraciones
+- Personas que confirman y cancelan a última hora.
+
+- Tener que escribir a conocidos para encontrar sustitutos.
+
+- Que los jugadores que entran como sustitutos tengan un nivel muy diferente.
+
+- Perder dinero cuando finalmente no se puede completar el partido.
+
+- Sentir que organizar el partido es casi un trabajo.
+
+### Necesidades
+Necesita una forma rápida de publicar las plazas disponibles de su partido y permitir que otros jugadores se incorporen, pagando directamente su parte.
+
+También necesita poder conocer aproximadamente el nivel de los jugadores antes de aceptarles en el partido.
+
+### Comportamiento digital
+Utiliza WhatsApp constantemente para organizar partidos y aplicaciones móviles para reservar pistas, restaurantes, transporte, etc. Está acostumbrado a realizar pagos y reservas desde el móvil.
+
+----
+
+## User Persona 2
+
+- Edad: 23 años
+- Ocupación: Estudiante de máster
+- Ciudad: San Fernando
+- Situación: Se ha mudado recientemente por estudios y todavía no tiene un grupo de amigos con el que jugar al fútbol.
+
+### Contexto
+Esta persona lleva jugando al fútbol desde pequeño y le gusta jugar una o dos veces por semana. Ha perdido el contacto habitual con sus compañeros de fútbol.
+
+Tiene ganas de seguir jugando, pero no conoce a suficientes personas como para organizar un partido por su cuenta.
+
+De vez en cuando pregunta a compañeros de clase o conocidos si tienen algún partido, pero depende completamente de que alguien tenga una plaza libre.
+
+### Objetivos
+- Jugar al fútbol de forma habitual sin necesitar un grupo de amigos.
+
+- Encontrar partidos cerca de su zona.
+
+- Poder apuntarse a un partido aunque no conozca al resto de jugadores.
+
+- Encontrar jugadores con un nivel similar al suyo.
+
+
+### Frustraciones
+- Tener que depender de sus amigos o compañeros para poder jugar.
+
+- Encontrar partidos con niveles demasiado diferentes.
+
+- Que un partido se cancele porque no hay suficientes jugadores.
+
+- Querer jugar un día concreto y no encontrar ninguna opción.
+
+### Necesidades
+Esta persona necesita una plataforma donde pueda consultar partidos públicos cercanos, conocer la fecha, ubicación y nivel aproximado, reservar una plaza y pagar únicamente su parte.
+
+Además, las valoraciones de otros jugadores le permitirían saber qué nivel tiene el partido antes de apuntarse.
+
+### Comportamiento digital
+Utiliza el móvil para prácticamente todo: redes sociales, deporte, reservas y pagos. Está acostumbrado a descubrir actividades a través de aplicaciones y no tiene problema en jugar con personas que no conoce previamente.
+
+----
+
+# Persona 3
+
+Playtomic: Empresa que tiene los mismos servicios pero unicamente esta asociada a los deportes de raqueta (como el padel)
+
+### Fortaleza: 
+- Es una aplicacion ampliamente conocida en todo el mundo por lo que si decidieran añadir los deportes de pelota seria una competencia directa
+
+### Oportunidades:
+- Ellos no tienen ese sistema y nosotros si la tenemos porque tenemos mas conocimiento de lo que se juega en nuestro entorno
+
+Ahora mismo no hay ninguna competencia en Cadiz pero existen ese tipo de aplicaciones tanto en España como fuera.
 
