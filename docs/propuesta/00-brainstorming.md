@@ -111,6 +111,7 @@ Una aplicación en la que tú subes el tema del que vas a hablar o un guión rá
 ## Competencia directa
 Que cumpla con todo lo que quiera implementar no, algunas tienen alguna funcion suelta pero el conjunto mejora mucho la funcionalidad entera de la app
 
+### Perdió: Por su nivel de complejidad y puede que falta de tiempo al intentar hacerlo
 
 # Idea Dani:
 
