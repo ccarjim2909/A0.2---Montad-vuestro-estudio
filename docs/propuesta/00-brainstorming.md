@@ -45,6 +45,11 @@ Impacto para el usuario
 
 - experimentar frustración e incertidumbre.
 
+----
+
+### Conclusion
+
+- Mi idea la hemos descartado por la complejidad de que las personas fuesen totalmente licitas, la parte de recogida de datos seria poco efectiva, dado a que si no todo el mundo usase la aplicación esta fallaría mucho o habria gente que mentiria en cuanto a los aparcamientos disponibles.
 
 
 # Idea Inda:
