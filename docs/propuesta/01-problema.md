@@ -8,25 +8,25 @@ Adaptado al fútbol:
 
 Ahora mi propuesta es la creación de una web similar pero completamente orientada al fútbol, poder saber el nivel de los jugadores(que los propios rivales votan), que haya un ranking en escala, de jugadores que han jugado en los diferentes polideportivos de cada zona, ciudad, comunidad etc... y lo más importante poder unirse a partidos públicos con personas completamente desconocidas y que así las personas que no tengan 9 amigos para jugar, puedan disfrutar de un partido semanal.
 
- ¿Quién lo sufre?
+ ### ¿Quién lo sufre?
 
--   El "Organizador frustrado": Aquella persona que asume la responsabilidad de alquilar la pista, crear el grupo y buscar a los jugadores.
+-    El "Organizador frustrado": Aquella persona que asume la responsabilidad de alquilar la pista, crear el grupo y buscar a los jugadores.
 
-    El "Jugador solitario": Personas que se mudan por trabajo o estudios, o cuyos amigos ya han dejado de jugar por edad o lesiones y quieren jugar al fútbol pero no tienen un grupo de 10 o 14 conocidos para armar un partido.
+-    El "Jugador solitario": Personas que se mudan por trabajo o estudios, o cuyos amigos ya han dejado de jugar por edad o lesiones y quieren jugar al fútbol pero no tienen un grupo de 10 o 14 conocidos para armar un partido.
 
--   Los dueños de los polideportivos y centros de fútbol 7/sala: Sufren las cancelaciones de última hora y tienen "horas muertas" en sus campos.
+-    Los dueños de los polideportivos y centros de fútbol 7/sala: Sufren las cancelaciones de última hora y tienen "horas muertas" en sus campos.
 
-¿Con qué frecuencia?
+### ¿Con qué frecuencia?
 
--   El problema ocurre todas las semanas, especialmente los fines de semana que algunos usuarios poco comprometidos comunican que no pueden jugar y el resto de personas de un grupo buscan un jugador con menos de 24 horas de plazo.
+-    El problema ocurre todas las semanas, especialmente los fines de semana que algunos usuarios poco comprometidos comunican que no pueden jugar y el resto de personas de un grupo buscan un jugador con menos de 24 horas de plazo.
 
-¿Cuál es el impacto?
+### ¿Cuál es el impacto?
 
--   Si los partidos se cancelan a última hora, la persona que ha reservado pierde el dinero de la reserva, con el nuevo cambio, es mucho más sencillo encontrar personas
+-    Si los partidos se cancelan a última hora, la persona que ha reservado pierde el dinero de la reserva, con el nuevo cambio, es mucho más sencillo encontrar personas
 
--   Puede llegar a generar pereza y frustración no poder encontrar personas para jugar.
+-    Puede llegar a generar pereza y frustración no poder encontrar personas para jugar.
 
--   Al meter "un conocido de algún conocido" los partidos suelen ser muy disparejos por lo que con el nuevo sistema de valoraciones los jugadores sabrán cual es el nivel del partido.
+-    Al meter "un conocido de algún conocido" los partidos suelen ser muy disparejos por lo que con el nuevo sistema de valoraciones los jugadores sabrán cual es el nivel del partido.
 
 ### Conclusión
 
@@ -34,6 +34,7 @@ Hemos decidido utilizar mi idea, ya que es la más facil de interpretar y de ent
 
 # Persona 2
 ----
+
 
 ## User Persona 1
 
@@ -47,23 +48,26 @@ Esta persona lleva varios años jugando al fútbol 7 con un grupo de amigos. Nor
 
 Aunque le gusta jugar, suele ser él quien se encarga de reservar el campo, crear el grupo de WhatsApp, confirmar quién viene y buscar sustitutos cuando alguien falla.
 
+
 ### Objetivos
-- Conseguir que los partidos se completen sin tener que perseguir a sus amigos.
+-    Conseguir que los partidos se completen sin tener que perseguir a sus amigos.
 
-- Encontrar jugadores rápidamente cuando alguien cancela.
+-    Encontrar jugadores rápidamente cuando alguien cancela.
 
-- Reducir el tiempo que dedica a organizar cada partido.
+-    Reducir el tiempo que dedica a organizar cada partido.
 
 ### Frustraciones
-- Personas que confirman y cancelan a última hora.
 
-- Tener que escribir a conocidos para encontrar sustitutos.
+-    Personas que confirman y cancelan a última hora.
 
-- Que los jugadores que entran como sustitutos tengan un nivel muy diferente.
+-    Tener que escribir a conocidos para encontrar sustitutos.
 
-- Perder dinero cuando finalmente no se puede completar el partido.
+-    Que los jugadores que entran como sustitutos tengan un nivel muy diferente.
 
-- Sentir que organizar el partido es casi un trabajo.
+-    Perder dinero cuando finalmente no se puede completar el partido.
+
+-    Sentir que organizar el partido es casi un trabajo.
+
 
 ### Necesidades
 Necesita una forma rápida de publicar las plazas disponibles de su partido y permitir que otros jugadores se incorporen, pagando directamente su parte.
@@ -88,6 +92,7 @@ Esta persona lleva jugando al fútbol desde pequeño y le gusta jugar una o dos 
 Tiene ganas de seguir jugando, pero no conoce a suficientes personas como para organizar un partido por su cuenta.
 
 De vez en cuando pregunta a compañeros de clase o conocidos si tienen algún partido, pero depende completamente de que alguien tenga una plaza libre.
+
 
 ### Objetivos
 - Jugar al fútbol de forma habitual sin necesitar un grupo de amigos.
@@ -122,11 +127,21 @@ Utiliza el móvil para prácticamente todo: redes sociales, deporte, reservas y 
 
 Playtomic: Empresa que tiene los mismos servicios pero unicamente esta asociada a los deportes de raqueta (como el padel)
 
+
 ### Fortaleza: 
-- Es una aplicacion ampliamente conocida en todo el mundo por lo que si decidieran añadir los deportes de pelota seria una competencia directa
+- Es una aplicación ampliamente conocida en todo el mundo por lo que si decidieran añadir los deportes de pelota seria una competencia directa
+
 
 ### Oportunidades:
 - Ellos no tienen ese sistema y nosotros si la tenemos porque tenemos mas conocimiento de lo que se juega en nuestro entorno
 
-Ahora mismo no hay ninguna competencia en Cadiz pero existen ese tipo de aplicaciones tanto en España como fuera.
+Ahora mismo no hay ninguna competencia en Cádiz pero existen ese tipo de aplicaciones tanto en España como fuera.
+
+----
+
+# Persona 4
+
+Buscamos organizar y ayudar a las personas a crear e integrarse en una comunidad en la que poder organizar partidos de forma ágil y en los les sea posible desenvolverse a gusto, en un entorno justo y equilibrado, de forma cómoda, a la vez que aprovechamos los recursos que nos ofrece nuestro entorno, sacando el máximo partido a las instalaciones cercanas. 
+
+Queremos dejar atrás las pistas vacías y discusiones por quién usa la pista en horas puntas, usando una herramienta en la que grupos con diversos perfiles se puedan poner de acuerdo sin tener que comprobar un folio en la cancha que queremos usar o en grupos de WhatsApp saturados.
 
