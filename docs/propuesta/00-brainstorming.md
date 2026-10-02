@@ -77,7 +77,9 @@ Ahora mi propuesta es la creación de una web similar pero completamente orienta
 
 -   Al meter "un conocido de algún conocido" los partidos suelen ser muy disparejos por lo que con el nuevo sistema de valoraciones los jugadores sabrán cual es el nivel del partido.
 
+### Conclusión
 
+Hemos decidido utilizar mi idea, ya que es la más facil de interpretar y de entender, es un tema que más o menos conocemos los cuatro y además es una idea original que de verdad no existe.
 
 # Idea Jordi:
 
