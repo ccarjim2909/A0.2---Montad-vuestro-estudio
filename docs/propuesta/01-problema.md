@@ -31,3 +31,10 @@ Ahora mi propuesta es la creación de una web similar pero completamente orienta
 ### Conclusión
 
 Hemos decidido utilizar mi idea, ya que es la más facil de interpretar y de entender, es un tema que más o menos conocemos los cuatro y además es una idea original que de verdad no existe.
+
+
+### Persona 3
+
+- Playtomic: Empresa que tiene los mismos servicios pero unicamente esta asociada a los deportes de raqueta (como el padel) por lo que ahora mismo no seria una competencia directa.
+
+- Ahora mismo no hay ninguna competencia en Cadiz pero existen ese tipo de aplicaciones tanto en España como fuera.
