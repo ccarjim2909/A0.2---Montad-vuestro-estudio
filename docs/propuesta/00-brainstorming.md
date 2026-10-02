@@ -127,5 +127,6 @@ En Co-oto se enfocan sobre todo a la gestión de gastos y no tiene reviews. Al e
 
 Como ya he mencionado, mi propuesta plantea abordar otra cara del problema, una que por lo que he investigado no se ha planteado en los antecedentes.
 
-### Hemos decidido descartar la propuesta debido a un posible solapamiento con aplicaciones de gestión de tareas mas genéricas
+### Conclusión
+- Hemos decidido descartar la propuesta debido a un posible solapamiento con aplicaciones de gestión de tareas mas genéricas
 
