@@ -4,11 +4,11 @@ PLAYTOMIC:
 
 En muchos deportes de raqueta ya se han inventado aplicaciones en las que poniendo tus datos personales y estadísticas de juego, la aplicación te facilita tu nivel aproximado de juego y te facilita el nivel de los demás. Estas aplicaciones están diseñadas también para poder reservar pistas fácilmente y poder incluir jugadores en esa pista. La funcionalidad de la app por la que he pensado esto es la siguiente: Si el jugador que alquila la pone pública, cualquier jugador que esté interesado puede unirse pagando su parte, esto hace que los jugadores que no siempre consiguen jugar con las mismas personas, puedan jugar partidos y no depender de nadie.
 
-Adaptado al fútbol:   
+### Adaptado al fútbol:   
 
 Ahora mi propuesta es la creación de una web similar pero completamente orientada al fútbol, poder saber el nivel de los jugadores(que los propios rivales votan), que haya un ranking en escala, de jugadores que han jugado en los diferentes polideportivos de cada zona, ciudad, comunidad etc... y lo más importante poder unirse a partidos públicos con personas completamente desconocidas y que así las personas que no tengan 9 amigos para jugar, puedan disfrutar de un partido semanal.
 
- ¿Quién lo sufre?
+### ¿Quién lo sufre?
 
 -   El "Organizador frustrado": Aquella persona que asume la responsabilidad de alquilar la pista, crear el grupo y buscar a los jugadores.
 
@@ -16,11 +16,11 @@ Ahora mi propuesta es la creación de una web similar pero completamente orienta
 
 -   Los dueños de los polideportivos y centros de fútbol 7/sala: Sufren las cancelaciones de última hora y tienen "horas muertas" en sus campos.
 
-¿Con qué frecuencia?
+### ¿Con qué frecuencia?
 
 -   El problema ocurre todas las semanas, especialmente los fines de semana que algunos usuarios poco comprometidos comunican que no pueden jugar y el resto de personas de un grupo buscan un jugador con menos de 24 horas de plazo.
 
-¿Cuál es el impacto?
+### ¿Cuál es el impacto?
 
 -   Si los partidos se cancelan a última hora, la persona que ha reservado pierde el dinero de la reserva, con el nuevo cambio, es mucho más sencillo encontrar personas
 
@@ -120,13 +120,34 @@ Utiliza el móvil para prácticamente todo: redes sociales, deporte, reservas y 
 
 # Persona 3
 
-Playtomic: Empresa que tiene los mismos servicios pero unicamente esta asociada a los deportes de raqueta (como el padel)
+Playtomic: Empresa que tiene los mismos servicios pero únicamente esta asociada a los deportes de raqueta (como el padel)
 
 ### Fortaleza: 
-- Es una aplicacion ampliamente conocida en todo el mundo por lo que si decidieran añadir los deportes de pelota seria una competencia directa
+- Es una aplicacion ampliamente conocida en todo el mundo por lo que si decidieran añadir los deportes de pelota sería una competencia directa
 
 ### Oportunidades:
 - Ellos no tienen ese sistema y nosotros si la tenemos porque tenemos mas conocimiento de lo que se juega en nuestro entorno
 
-Ahora mismo no hay ninguna competencia en Cadiz pero existen ese tipo de aplicaciones tanto en España como fuera.
+Ahora mismo no hay ninguna competencia en Cádiz pero existen ese tipo de aplicaciones tanto en España como fuera.
 
+----
+
+# Persona 4
+
+### Nuestra propuesta de valor
+
+Buscamos organizar y ayudar a las personas a crear e integrarse en una comunidad en la que poder organizar partidos de forma ágil y en la que sea posible desenvolverse a gusto, con partidos justos y nivel de juego equilibrado. De forma cómoda a la vez que aprovechan los recursos que nos ofrece nuestro entorno, sacando el máximo partido a las instalaciones cercanas. 
+
+Queremos dejar atrás las pistas vacías y discusiones por quién usa la pista en horas puntas, usando una herramienta en la que grupos con diversos perfiles se puedan poner de acuerdo sin tener que comprobar un folio en la cancha que queremos usar o en grupos de WhatsApp saturados.
+
+### Para el jugador: 
+
+- "Encuentra partido y cancha a tu nivel, en cualquier momento, cerca de tí."
+
+### Para el capitán: 
+
+- "Olvidate de perseguir a la gente para cobrar la cuota de alquiler de pista o completar tu equipo. Reserva la pista y completa los cupos facilmente usando la app."
+
+### Para el dueño de la cancha: 
+
+- "Maximiza la ocupación de tu pista reduciendo las reservas no presentada y atrayendo una comunidad activa de jugadores."
